@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -74.7964,
+    "lat": 10.9639
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 91.18,
+    "feels_like": 103.78,
+    "temp_min": 91.18,
+    "temp_max": 91.18,
+    "pressure": 1010,
+    "humidity": 66
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.75,
+    "deg": 130
+  },
+  "rain": {
+    "1h": 0.98
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1685382288,
+  "sys": {
+    "type": 1,
+    "id": 8584,
+    "country": "CO",
+    "sunrise": 1685356529,
+    "sunset": 1685402279
+  },
+  "timezone": -18000,
+  "id": 3689147,
+  "name": "Barranquilla",
+  "cod": 200
+}
